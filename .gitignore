@@ -1,0 +1,57 @@
+## Visual Studio生成文件
+[Bb]in/
+[Oo]bj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## 构建输出
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]uild/
+*.pdb
+*.ilk
+*.cache
+
+## NuGet包管理
+*.nupkg
+!**/packages/repositories.config
+packages/*
+
+## 日志文件
+*.log
+*.vspscc
+*.vssscc
+
+## 测试相关
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## ASP.NET特定文件
+/PublishProfiles/
+*.pubxml
+*.publishsettings
+app.publish/
+
+## 其他开发工具
+_ReSharper.*
+*.resharper
+*.DotSettings
+*.dotCover
+
+## 操作系统文件
+Thumbs.db
+.DS_Store
+Desktop.ini
+## IDE临时文件
+*.swp
+*.*~
+~$*
+*.tmp
