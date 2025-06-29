@@ -1,12 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-namespace Test0628
+namespace Lesson04
 {
     class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double num = 99.9;
+            Console.WriteLine($"{num}");
         }
     }
 }
